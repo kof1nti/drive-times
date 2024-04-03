@@ -6,6 +6,8 @@ Steps in creatingdriving strategy  in QGIS portfolio
 
 [drive-time portfolio](https://kof1nti.github.io/drive-times/)
 
+[gif](https://github.com/kof1nti/drive-times/blob/main/download.gif)
+
 # Highlights 
 - Geocoding a list of the properties using webservice  geocode from MMQGIS plugin in QGIS
 - Manually searching for the remaining adresses on google maps to get their coordinates for mapping as these addresses were confusing 
