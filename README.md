@@ -1,12 +1,14 @@
 # drive-time
 A portfolio on Creating a driving strategy based on properly zoned areas.
 
-Steps in creatingdriving strategy  in QGIS portfolio
+Steps in creating a drive strategy in QGIS portfolio
 
 
 [drive-time portfolio](https://kof1nti.github.io/drive-times/)
 
-![](https://github.com/kof1nti/drive-times/blob/main/download.gif)
+![](https://github.com/kof1nti/drive-times/blob/main/mapped sites.gif)
+
+![](https://github.com/kof1nti/drive-times/blob/main/dvpath.gif)
 
 # Highlights 
 - Geocoding a list of the properties using webservice  geocode from MMQGIS plugin in QGIS
