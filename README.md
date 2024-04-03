@@ -6,7 +6,7 @@ Steps in creating a drive strategy in QGIS portfolio
 
 [drive-time portfolio](https://kof1nti.github.io/drive-times/)
 
-![](https://github.com/kof1nti/drive-times/blob/main/mapped sites.gif)
+![](https://github.com/kof1nti/drive-times/blob/main/mapped%20sites.gif)
 
 ![](https://github.com/kof1nti/drive-times/blob/main/dvpath.gif)
 
@@ -24,5 +24,6 @@ Steps in creating a drive strategy in QGIS portfolio
 
 ### Takeaway
 - Consideration 
+
 A direction of travel can be applied to half the total number of sites. eg Northwise and Southwise, Eastwise and Westwise.
 After which the cluster is done to avoid having a site within a cluster being far from others.
