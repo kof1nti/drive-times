@@ -6,6 +6,8 @@ Steps in creating a drive strategy in QGIS portfolio
 
 [drive-time portfolio](https://kof1nti.github.io/drive-times/)
 
+![](https://github.com/kof1nti/drive-times/blob/main/download.gif)
+
 ![](https://github.com/kof1nti/drive-times/blob/main/mapped%20sites.gif)
 
 ![](https://github.com/kof1nti/drive-times/blob/main/dvpath.gif)
