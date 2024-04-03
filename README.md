@@ -18,7 +18,7 @@ Steps in creatingdriving strategy  in QGIS portfolio
  
 
 
-### Takeaways
+### Takeaway
 - Consideration 
 A direction of travel can be applied to half the total number of sites. eg Northwise and Southwise, Eastwise and Westwise.
 After which the cluster is done to avoid having a site within a cluster being far from others.
