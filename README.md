@@ -2,7 +2,7 @@
 A portfolio on Creating a driving strategy based on properly zoned areas.
 
 Steps in creatingdriving strategy  in QGIS portfolio
-kof1nti.github.io
+
 
 [drive-time portfolio](https://kof1nti.github.io/drive-times/)
 
